@@ -1,8 +1,0 @@
-{
-  "projects": {
-    "default": "weather-app-f672a",
-    "dev": "weather-app-f672a"
-  },
-  "targets": {},
-  "etags": {}
-}
