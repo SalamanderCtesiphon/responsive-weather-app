@@ -58,6 +58,12 @@
   font-weight: 200;
 }
 
+@media (max-width: 600px) {
+  .section_inputs>input {
+    width: 50vw;
+  }
+}
+
 .section_inputs>input:focus {
   outline: none;
 }
@@ -70,6 +76,8 @@
   font-weight: 500;
   background-color: white;
 }
+
+
 
 .section_inputs>button:hover {
   cursor: pointer;
